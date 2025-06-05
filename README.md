@@ -2,7 +2,7 @@
 
 ## 👋 About Me / My Expertise
 
-✨ Highly accomplished and results-driven Data Architect and Data Engineer with extensive experience in designing, building, and optimizing complex data ecosystems. I specialize in leading and executing enterprise-scale data initiatives, including the successful establishment of comprehensive Enterprise Data Fabrics and robust on-premise Data Lakes. My passion lies in transforming disparate data into strategic assets, enabling real-time analytics, and empowering data-driven decisions that enhance customer experience, optimize operations, and drive revenue growth. ✨ 
+✨ Highly accomplished and results-driven Big Data Architect and Big Data Engineer with extensive experience in designing, building, and optimizing complex Big Data ecosystems. My passion lies in transforming disparate data into strategic assets, enabling real-time analytics, and empowering data-driven decisions that enhance customer experience, optimize operations, and drive revenue growth. ✨ 
 
 ---
 
@@ -17,6 +17,14 @@
 * **Orchestration & DevOps:** Skilled in Apache Airflow, Jenkins, Docker, Kubernetes, Git, CI/CD, Terraform, and CloudFormation for automated deployments and workflows.
 * **Programming Languages:** Strong proficiency in Python, SQL (expert), Java, and Shell Scripting.
 * **Key Concepts:** Deep understanding of Distributed Systems, Scalability, High Availability, MLOps, Data Lakehouse Architecture, CDC, SCD Type 2, Data Security, and Performance Tuning.
+
+---
+
+## 🎯 Key Achievements & Responsibilities
+* Spearheaded the architectural design of a scalable data fabric, enabling seamless integration of diverse data (batch/real-time, structured/unstructured) across the organization.
+* Established robust frameworks for enterprise-wide data ingestion, transformation, quality, and secure data access, significantly improving data reliability and governance.
+* Drove standardization of data models and metadata management, fostering a single source of truth for critical business insights and analytical capabilities.
+* Empowered advanced analytics and AI/ML initiatives by providing a cohesive, governed data layer, transforming scattered data into a strategic asset.
 
 ---
 
