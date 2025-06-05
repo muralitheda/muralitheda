@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Murali Balasubramaniam
 
-------------------------------------------------------------------------
+I am a highly accomplished Senior Multi-cloud Big Data Engineer and Data Architect. My expertise lies in designing and deploying scalable, cost-efficient Big Data solutions across various cloud platforms, utilizing Spark, Hadoop, SQL, NoSQL, and Machine Learning. I consistently optimize data pipelines, manage large data lakes, and achieve measurable processing efficiencies.
 
 <!--
 **muralitheda/muralitheda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
