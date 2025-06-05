@@ -1,8 +1,8 @@
-# Hi there 👋 I'm Murali Balasubramaniam | 👋
+# Hi there 👋 I'm Murali Balasubramaniam 👋
 
 ## 👋 About Me / My Expertise
 
-✨ Highly accomplished and results-driven Data Architect and Data Engineer with extensive experience in designing, building, and optimizing complex data ecosystems. I specialize in leading and executing enterprise-scale data initiatives, including the successful establishment of comprehensive Enterprise Data Fabrics and robust on-premise Data Lakes. My passion lies in transforming disparate data into strategic assets, enabling real-time analytics, and empowering data-driven decisions that enhance customer experience, optimize operations, and drive revenue growth.
+✨ Highly accomplished and results-driven Data Architect and Data Engineer with extensive experience in designing, building, and optimizing complex data ecosystems. I specialize in leading and executing enterprise-scale data initiatives, including the successful establishment of comprehensive Enterprise Data Fabrics and robust on-premise Data Lakes. My passion lies in transforming disparate data into strategic assets, enabling real-time analytics, and empowering data-driven decisions that enhance customer experience, optimize operations, and drive revenue growth. ✨ 
 
 ---
 
