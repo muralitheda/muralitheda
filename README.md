@@ -6,6 +6,14 @@
 
 ---
 
+## 🎯 Key Achievements & Responsibilities
+* Spearheaded the architectural design of a scalable data fabric, enabling seamless integration of diverse data (batch/real-time, structured/unstructured) across the organization.
+* Established robust frameworks for enterprise-wide data ingestion, transformation, quality, and secure data access, significantly improving data reliability and governance.
+* Drove standardization of data models and metadata management, fostering a single source of truth for critical business insights and analytical capabilities.
+* Empowered advanced analytics and AI/ML initiatives by providing a cohesive, governed data layer, transforming scattered data into a strategic asset.
+
+---
+
 ## 🛠️ Core Competencies & Skills
 
 * **Strategic Data Architecture:** Designing scalable, unified, and intelligent data architectures, including Enterprise Data Fabrics and on-premise Data Lakes.
@@ -17,14 +25,6 @@
 * **Orchestration & DevOps:** Skilled in Apache Airflow, Jenkins, Docker, Kubernetes, Git, CI/CD, Terraform, and CloudFormation for automated deployments and workflows.
 * **Programming Languages:** Strong proficiency in Python, SQL (expert), Java, and Shell Scripting.
 * **Key Concepts:** Deep understanding of Distributed Systems, Scalability, High Availability, MLOps, Data Lakehouse Architecture, CDC, SCD Type 2, Data Security, and Performance Tuning.
-
----
-
-## 🎯 Key Achievements & Responsibilities
-* Spearheaded the architectural design of a scalable data fabric, enabling seamless integration of diverse data (batch/real-time, structured/unstructured) across the organization.
-* Established robust frameworks for enterprise-wide data ingestion, transformation, quality, and secure data access, significantly improving data reliability and governance.
-* Drove standardization of data models and metadata management, fostering a single source of truth for critical business insights and analytical capabilities.
-* Empowered advanced analytics and AI/ML initiatives by providing a cohesive, governed data layer, transforming scattered data into a strategic asset.
 
 ---
 
