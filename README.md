@@ -19,6 +19,9 @@
 * **Key Concepts:** Deep understanding of Distributed Systems, Scalability, High Availability, MLOps, Data Lakehouse Architecture, CDC, SCD Type 2, Data Security, and Performance Tuning.
 
 ---
+
+## 📫 Connect With Me
+
 <!--
 **muralitheda/muralitheda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
